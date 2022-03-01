@@ -1,0 +1,149 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The speech of Captain Henry Warren at the place of execution neer Wapping-Dock, on Thursday last, being the fourteenth of this instant October, 1652. With his prayer immediatly before his death, and a perfect narrative of all his proceedings at sea, in relation to the late King, Parliament, and the Dutch fleet. Published according to order.</title>
+            <author>Warren, Henry, d. 1652.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1652</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A97220</idno>
+            <idno type="STC">Wing W972</idno>
+            <idno type="STC">Thomason E678_12</idno>
+            <idno type="STC">ESTC R204008</idno>
+            <idno type="EEBO-CITATION">99858750</idno>
+            <idno type="PROQUEST">99858750</idno>
+            <idno type="VID">166328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A97220)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 166328)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 104:E678[12])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The speech of Captain Henry Warren at the place of execution neer Wapping-Dock, on Thursday last, being the fourteenth of this instant October, 1652. With his prayer immediatly before his death, and a perfect narrative of all his proceedings at sea, in relation to the late King, Parliament, and the Dutch fleet. Published according to order.</title>
+                  <author>Warren, Henry, d. 1652.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G. Horton, and are to be sold at the Royoll [sic] Exchange in Cornhill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1652.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A variant has 'Royall'in the imprint.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Last words --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-03</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:166328:1" rendition="simple:additions"/>
+            <p>THE SPEECH Of Captain HENRY WARREN At the place of Execution neer Wapping-Dock, on Thurſday laſt, being the fourteenth of this inſtant October, 1652. With his Prayer immediatly before his death, And a perfect Narrative of all his proceedings at Sea, in relation to the late King, Parliament, and the Dutch Fleet.</p>
+            <p>Publiſhed according to Order.</p>
+            <p>LONDON: Printed for G. HORTON, and are to be ſold at the Royall Exchange in Cornhill, 1652.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:166328:2"/>
+            <pb n="3" facs="tcp:166328:2"/>
+            <head>The Speech of Capt. Warren on Thurſ<g ref="char:EOLhyphen"/>day laſt, being the 14<hi rend="sup">th</hi> of this inſtant October, 1652. at the place of Executi<g ref="char:EOLhyphen"/>on neer Wapping-Dock.</head>
+            <p>
+               <seg rend="decorInit">O</seg>N Thurſday being the 14 of this inſtant Octo<g ref="char:EOLhyphen"/>ber, Captain Warren (according to the ſen<g ref="char:EOLhyphen"/>tence denounced againſt him) was brought to the place of execution, being attired all in white; and great was the concourſe of people, both by ſea and ſhore, who with much grief of ſpirit, be<g ref="char:EOLhyphen"/>held this Object of pity and compaſſion: for, indeed, his death was extremely lamented, not onely for his ſingular ſervices performed both for King and Parliament; but alſo for his poor diſtreſſed wife and children, now in tribulati<g ref="char:EOLhyphen"/>on at Horſey-down: He had been about 15 years in the ſervice, and received his firſt Commiſſion from the late King; but ſince the eclipſing of his Regal power, the com<g ref="char:EOLhyphen"/>mand at ſea (as well as by land) received a Tranſlate, and was ſoon reduc'd to the obedience of the Parliament; by vertue of whoſe Authority, and Commiſſion, he was im<g ref="char:EOLhyphen"/>powred to act in the behalf and defence of this Common<g ref="char:EOLhyphen"/>wealth, and with great faithfulneſs and integrity, did he
+<pb n="4" facs="tcp:166328:3"/> perform the Truſt repoſed in him; inſomuch, that the Chattam Fr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gar was commit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed to his charge, and for ma<g ref="char:EOLhyphen"/>ny years had he the conduct of her, during which time, ſe<g ref="char:EOLhyphen"/>veral prizes he brought in to the Engliſh Harbors for the States; but the laſt he took proved his Overthrow; for laying a French-man aboard bound from Bourdeaux, la<g ref="char:EOLhyphen"/>den with Wines, after he had ſecured the Veſſel, the opera<g ref="char:EOLhyphen"/>tion of the Vintage grew too potent and mighty, and ſoon poſſeſſed him with ſuch a ſpirit of indiſcreet Valour, that coming within ſight of the Dutch fleet, he ſeemed to bear up to them, and threaten'd to lay their Admiral aboard: This Reſolution he vow'd to purſue, contrary to the ad<g ref="char:EOLhyphen"/>vice or deſire of the other Officers and Sea-men; inſomuch that Mr. Smiths Mate belonging to the Chriſtopher, being aboard, went to him, and told him, if he atempted any ſuch thing they were all loſt men, and that none but mad-men would yield obedience to any ſuch command; whereupon the Captain being in a paſſion, cock'd his piſtol, and as the Mate was turning off from him, ſhot him quite through the back; which the Boſton perceiving, haſted up to the head of the ſhip, ſaying, O Captain what have ye done: He anſwer'd, One Commander in a ſhip is enough, and any one that dare contradict me, I'll ſerve them all ſo: One and all cry'd the ſea-men; whereupon they preſently ſecur'd him, and tacking about, brought him to Rye, from whence he was conducted to the White Lyon in Southwark, &amp; from thence to the place of execution, according to the Sentence denounced againſt him at the laſt Aſſizes; where he de<g ref="char:EOLhyphen"/>ported himſelf with exceeding great Remorſe of Conſci<g ref="char:EOLhyphen"/>ence, and about 11 of the clock in the forenoon began his ſpeech to the people, as followeth:</p>
+            <pb n="5" facs="tcp:166328:3"/>
+            <p>
+               <hi>Chriſtian Friends,</hi>
+            </p>
+            <p>I Am this day made a ſpectacle to God, and a ſad Object to the people; and although there be but a little be<g ref="char:EOLhyphen"/>tween me and Death, yet bleſſed be God that which bears vp my heart, is, there is but a little between me and Hea<g ref="char:EOLhyphen"/>ven; no more then the Ladder between me and the Savior of the World. I am now from our Neptune Ocean ſailing to the Ocean of Eternity, through a rough paſſage to my Haven of Reſt, through the Red-ſea unto the promiſed Land: Jacob was old, yet knew not the day of his death; yet bleſſed be the Name of the Lord, in the prime of my years, I know the day of my death, the kind of my death, and the place of my death; but this is my comfort, I am making a double exchange; and am filled with abundance of tranquility and peace of mind, and much ſerenity &amp; joy of ſpirit, being confident that I have made my peace with God; and that he hath ſealed unto me a remiſſion of all my ſins. I have humbly beſought mercy for the laſt bloud that I ſpilt, and my deſire is, That all Officers may take warning by me what they do in heat of bloud; Bleſſed be the name of the Lord that he hath given me a heart of repentance, &amp; a believing faith, and that he hath ſtood by me in all my impriſonment, and ſtrengthened and ſupported me; And though I am now come to an untimely end, death is not a terror to me, God is not a terror, therefore death is not dreadful; O welcome Death, welcome Ladder, welcome Gibbit, welcome all, becauſe they will ſend me to a manſi<g ref="char:EOLhyphen"/>on in my Fathers houſe. I have done, deſiring only the help of your prayers, that God would give me continual ſup<g ref="char:EOLhyphen"/>plies of divine grace to carry me through this great work I am to do, for I am now ready to be offered, and the time of my departure is at hand; and ſo God bleſs you all.</p>
+            <div type="part">
+               <pb n="6" facs="tcp:166328:4"/>
+               <head>Captain Warren's Prayer, at the place of execution, immediatly before he was turned off the Ladder.</head>
+               <p>O Moſt eternal and glorious Lord God, I thy poor and unworthy Creature, do here hum<g ref="char:EOLhyphen"/>bly proſtrate my ſelf before thy ſacred Majeſty, be<g ref="char:EOLhyphen"/>ſeeching thee through the merits of Jeſus Chriſt my bleſſed Saviour and Redeemer, to have mercy on me, and to wipe away all my ſins and tranſgreſſions; Have mercy upon me, O God, according to thy lo<g ref="char:EOLhyphen"/>ving kindneſs; and according to the multitude of thy tender mercies, blot out my tranſgreſſions. Oh! Waſh me thorowly from mine iniquity, and cleanſe me from my ſin. Purge me with hyſop, and I ſhall be clean; waſh me, and I ſhall be whiter then ſnow. For thy name ſake, O Lord, pardon mine iniquity, for it is great. Remember me, dear Father, O accor<g ref="char:EOLhyphen"/>ding to thy mercy remember thou me, for thy goodneſs ſake. Turn thee unto me, and have mercy upon me, for I am deſolate and afflicted. Look upon my affliction, and forgive all my fins. O keep my ſoul and deliver me; for in thee I put my confi<g ref="char:EOLhyphen"/>dence, and thou onely, O God, art the Rock of my
+<pb n="7" facs="tcp:166328:4"/> ſalvation, and a ſtrong Tower of Defence; Make thy face to ſhine upon thy ſervant; ſave me, for thy mercy ſake. O hide thy face from my ſins, and caſt me not away from thy preſence. Mine eyes are un<g ref="char:EOLhyphen"/>to thee, O Lord God, in thee is my truſt, leave not my poor ſoul deſtitute. Hear me, O Lord, and ſend forth thy light, vouchſafe from Heaven one ſmile I beſeech thee; lead me into the land of uprightneſs, for thy names ſake. And dear Father I beſeech thee that thou wilt be pleaſed to ſtrengthen me with thy bleſſed ſpirit in this great Work, that ſo I may free<g ref="char:EOLhyphen"/>ly and willingly ſubmit to thy Will; O Lord, re<g ref="char:EOLhyphen"/>member my poor afflicted wife and children, O look down upon them with the eyes of pity and compaſſion, I beſeech thee, for Jeſus Chriſt his ſake. O guide, bleſs, preſerve, and keep them, I be<g ref="char:EOLhyphen"/>ſeech thee, for the merits of our Lord and bleſſed Saviour ſweet Jeſus. Let their lives be precious in thy ſight, and remember them in this their day of tribulation; be thou a ſtrong Tower of Defence to ſave and deliver them; and remember, I beſeech thee, moſt gracious and glorious Lord God, that thou haſt promiſed to be a Husband to the widow, and a Father to the Fatherleſs; And now Lord, I beſeech thee, ſtrengthen me even in this hour of temptation; have mercy upon them that would not
+<pb n="8" facs="tcp:166328:5"/> have mercy upon me; and Lord forgive them that would not forgive me; Yet I bleſs God that hath heard the voyce of my ſupplications, in taking away the ſting of Death; for to me it ſeems not terrible; Therefore bleſſed be the Lord God of Iſrael from everlaſting to everlaſting, AMEN, AMEN.</p>
+               <p>Having ended his ſpeech, he deſired that a Pſalm might be ſung, which being done, he prayed again very fervently; but he was not very copious: Then he ſaid the Lords Prayer, and immediatly after he took his leave of his friends, deſiring them to com<g ref="char:EOLhyphen"/>miſerate the ſad and deplorable condition of his poor wife and children, and more eſpecially to pray for him, during his paſſage through the Vale and ſhadow of Death. Then going up the Ladder, the Executioner put the Rope about his neck, and de<g ref="char:EOLhyphen"/>ſired to know the ſign: He anſwer'd, when I lift up my hands do thy office; and caſting his eyes up to Heaven, ſaying, Lord Jeſus have mercy upon me, O thou Son of God that take'ſt away the ſins of the world, and ſhed thy dear and precious bloud for me, ſpeak peace unto my poor ſoul; and then lifting up his hands, he received the fatal Turn; and having hung for the ſpace of an hour, he was afterwards cut down, and carried over the water.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
